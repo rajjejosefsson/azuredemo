@@ -8,6 +8,8 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
 
+message = "Go Away!";
+
 onFun() {
   alert("Doooh");
 }
